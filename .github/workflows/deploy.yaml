@@ -1,4 +1,4 @@
-name: Deploy Frontend
+name: Deploy Frontend React Example App
 on:
   push:
     branches:
